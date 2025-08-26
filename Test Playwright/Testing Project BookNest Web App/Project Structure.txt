@@ -1,0 +1,7 @@
+booknest-playwright/
+│
+├── tests/
+    ├── home.spec.js           # เทสการโหลดหน้า Home
+    └── category.spec.js      # เทสการกรองหมวดหมู่
+    └── login.spec.js	                # เทสการ login
+
